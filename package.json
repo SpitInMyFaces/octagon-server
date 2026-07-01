@@ -1,0 +1,17 @@
+{
+  "name": "octagon-server",
+  "version": "1.0.0",
+  "description": "Base Node.js server for college task",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Kornilov Ilia",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
